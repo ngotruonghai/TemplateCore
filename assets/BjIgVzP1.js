@@ -1,0 +1,1 @@
+import{P as a,R as n,Q as t}from"./C8KgWqyF.js";const s={__name:"index",setup(l){return(o,e)=>(t(),a("div",null,e[0]||(e[0]=[n("h1",null,"Danh mục 1",-1),n("p",null,"Chào mừng đến với danh mục 1.",-1)])))}};export{s as default};
